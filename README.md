@@ -19,7 +19,7 @@ Pewlett Hackard has a substantial portion of its workforce approaching retirment
   
 ## Summary: 
 
-Pewlett Hackard will face a "silver tsunami", ie a large portion of its workforce will begin to enter retirment in the next several years. Of those employees born between January 1, 1952 and December 31, 1955, 67,366 will be eligible for retirement.
+Pewlett Hackard will face a "silver tsunami", ie a large portion of its workforce will begin to enter retirement in the next several years. Of those employees born between January 1, 1952 and December 31, 1955, 67,366 will be eligible for retirement.
  
 <br>The first part of this "silver tsunami" will be those born between January 1, 1952 and December 31, 1952 (displayed in table below). The total number of the first wave of retiring employees is 21,209 which breaks down into the following job titles: Engineers (7,432), Senior Staff (6,635), Staff (2,481), Senior Engineer (2,169), Assistant Engineer (1,069), Technique Leaders (1,062), and 1 Manager. There are a large number of roles which need to be filled by Hewlett Packard as forseen by the first wave of retirees followed by the rest of the eligible workforce.
 <p align=center>
